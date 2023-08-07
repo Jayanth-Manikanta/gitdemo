@@ -1,2 +1,2 @@
 # gitdemo
-to learn github
+to learn github in ml lab
